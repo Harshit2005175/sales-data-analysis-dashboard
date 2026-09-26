@@ -1,0 +1,18 @@
+Order_ID,Order_Date,Region,Product,Category,Quantity,Unit_Price,Cost_Price,Customer_Name,Salesperson
+1001,2024-01-05,East,Laptop,Electronics,2,850,690,John Smith,Alice
+1002,2024-01-10,West,Office Chair,Furniture,5,120,84,Emma Brown,Mark
+1003,2024-01-15,North,Printer,Electronics,3,250,203,David Lee,Sophia
+1004,2024-02-02,South,Desk Lamp,Office Supplies,12,25,18,Olivia Green,Daniel
+1005,2024-02-14,East,Notebook,Office Supplies,20,8,5.5,Liam Wilson,Alice
+1006,2024-02-20,West,Monitor,Electronics,4,300,235,Noah Davis,Mark
+1007,2024-03-03,North,Bookshelf,Furniture,2,180,126,Ava Miller,Sophia
+1008,2024-03-12,South,Keyboard,Electronics,8,45,31.5,,Daniel
+1009,2024-03-18,East,Mouse,Electronics,,25,15.5,Isabella Moore,Alice
+1010,2024-04-01,West,Printer,Electronics,2,250,203,James Taylor,Mark
+1011,2024-04-08,North,Desk Lamp,Office Supplies,10,25,18,Mia Anderson,Sophia
+1012,2024-04-19,South,Office Chair,Furniture,3,120,84,William Thomas,Daniel
+1013,2024-05-05,East,Laptop,Electronics,1,850,690,Charlotte Jackson,Alice
+1014,2024-05-16,West,Notebook,Office Supplies,30,8,5.5,Benjamin White,Mark
+1014,2024-05-16,West,Notebook,Office Supplies,30,8,5.5,Benjamin White,Mark
+1015,2024-06-07,,Monitor,Electronics,5,300,235,Amelia Harris,Sophia
+1016,2024-06-21,South,Bookshelf,Furniture,2,180,126,Henry Martin,Daniel
